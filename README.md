@@ -8,7 +8,7 @@
 ✰ I want to focus on myself\
 ✰ Stay away from depression and mental breakdowns\
 ✰ Getting my best friend into start to the sport\
-✰ Making an aesthetic body like "ZYZZ"\
+✰ Making an aesthetic body like "ZYZZ"
 
 # Getting Started with Create React App
 
