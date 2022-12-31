@@ -1,3 +1,15 @@
+# My goals in 2023
+
+✰ Being happy\
+✰ Being a good human for world\
+✰ Get a job at a visionary company\
+✰ Moving to a livable country for permanent\
+✰ Commit to github every day\
+✰ I want to focus on myself\
+✰ Stay away from depression and mental breakdowns\
+✰ Getting my best friend into start to the sport\
+✰ Making an aesthetic body like "ZYZZ"\
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
