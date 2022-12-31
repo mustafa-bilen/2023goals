@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bbg">
+      <div className="text-4xl text-lime-600 mb-5">My goals in 2023</div>
+      <ul className="text-2xl list-disc">
+        <li>Being happy</li>
+        <li>Being a good human for world</li>
+        <li>Get a job at a visionary company</li>
+        <li>Moving to a livable country for permanent</li>
+        <li>Commit to github every day</li>
+        <li>I want to focus on myself</li>
+      </ul>
     </div>
   );
 }
